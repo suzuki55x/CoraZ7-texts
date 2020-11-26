@@ -83,12 +83,12 @@ VivadoでCoraZ7を表示するための設定を行います。
 
 1. Windowsツールバーから、Xilinx Infomation Centerを開きます。
    ※起動していない場合、スタートメニュー->Xilinxから起動します。  
-   <img src="./images/0_vitis_install_0.PNG"/>
+   <img src="./images/0_Vitis_install_0.PNG"/>
 2. Manage Installsタブをクリック  
 3. "Xilinx Design Tools Vitis Unified Software Platform 2020.1"欄の"Add Tools/Devices"をクリック  
-   <img src="./images/0_vitis_install_1.PNG"/>
+   <img src="./images/0_Vitis_install_1.PNG"/>
 4. Xilinxアカウントを入力します。  
-   <img src="./images/0_vitis_install_2.PNG"/>
+   <img src="./images/0_Vitis_install_2.PNG"/>
 5. "Vitis"を選択します。
 6. 画面の指示に従ってインストール（特に設定変更の必要はありません）
 
